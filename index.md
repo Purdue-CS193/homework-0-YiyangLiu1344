@@ -3,6 +3,7 @@
 - only have to go to one class each week
 - can learn about things like how to use the github
 [Image](cat.jpg)
+theme: jekyll-theme-midnight
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
