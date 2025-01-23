@@ -2,7 +2,7 @@
 - the class was easy to understand
 - only have to go to one class each week
 - can learn about things like how to use the github
-[Image](cat.jpg)
+- [Image](cat.jpg)
 
 ## Welcome to GitHub Pages
 
