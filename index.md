@@ -1,3 +1,4 @@
+# Yiyang Liu's First CS193 Homework
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -14,6 +15,8 @@ Syntax highlighted code block
 # This is Header 1
 ## This is Header 2
 ### This is Header 3
+
+```
 This is a <sup>superscript</sup> text
 This is a <sub>subscript</sub> text
 > this is a quote i don't know what to write
@@ -28,7 +31,6 @@ This is a <sub>subscript</sub> text
 **Bold** and _Italic_ and `Code` text
 
 [hope you don't click this](https://www.youtube.com/watch?v=XfELJU1mRMg&ntb=1&msockid=54dc1d87d9e311efbecb63852606a02c) and ![Image](cat.jpg)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
