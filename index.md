@@ -17,13 +17,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# This is Header 1
-## This is Header 2
-### This is Header 3
-This is a <sup>superscript</sup> text
-This is a <sub>subscript</sub> text
-> this is a quote i don't know what to write
-`rgb(14, 159, 113)`
+# Header 1
+## Header 2
+### Header 3
 
 - Bulleted
 - List
@@ -33,6 +29,7 @@ This is a <sub>subscript</sub> text
 
 **Bold** and _Italic_ and `Code` text
 
+[Link](url) and ![Image](src)
 
 ```
 
